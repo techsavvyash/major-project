@@ -17,6 +17,7 @@
 - [ ] https://research.google/pubs/the-chubby-lock-service-for-loosely-coupled-distributed-systems/
 - [ ] https://www.semanticscholar.org/paper/Leases%3A-an-efficient-fault-tolerant-mechanism-for-Gray-Cheriton/8965057405c1de742346eba16f20eaca2612f576?p2df
 - [ ] https://www.cs.princeton.edu/courses/archive/fall07/cos518/papers/flp.pdf
+- [ ] https://courses.cs.duke.edu/fall13/compsci590.4/838-CloudPapers/ycsb.pdf
 ## Blogs
 
 - [ ] https://medium.com/coinmonks/the-raft-algorithm-achieving-distributed-systems-consensus-e8c17542699b
